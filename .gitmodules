@@ -2,3 +2,6 @@
 [submodule "vendors/bootstrap"]
 	path = vendors/bootstrap
 	url = https://github.com/twbs/bootstrap.git
+[submodule "vendors/typeahead.js"]
+	path = vendors/typeahead.js
+	url = https://github.com/twitter/typeahead.js.git
