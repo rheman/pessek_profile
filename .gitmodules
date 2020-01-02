@@ -1,1 +1,4 @@
 [submodule "bootstrap"]
+[submodule "vendors/bootstrap"]
+	path = vendors/bootstrap
+	url = https://github.com/twbs/bootstrap.git
