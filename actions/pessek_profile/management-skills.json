@@ -1,0 +1,295 @@
+[ 
+    
+    {
+        "name": {
+			"en": "Organizing",
+			"fr": "Organisation",
+			"id": "220"
+		}
+    },
+    {
+        "name": {
+			"en": "Coordinating",
+			"fr": "Coordination",
+			"id": "221"
+		}
+    },
+    {
+        "name": {
+			"en": "Directing",
+			"fr": "Direction",
+			"id": "222"
+		}
+    },
+    {
+        "name": {
+			"en": "Oversight",
+			"fr": "Surveillance",
+			"id": "223"
+		}
+    },
+    {
+        "name": {
+			"en": "Conflict Management",
+			"fr": "Gestion des conflits",
+			"id": "224"
+		}
+    },
+    {
+        "name": {
+			"en": "Conflict Resolution",
+			"fr": "Résolution de conflit",
+			"id": "225"
+		}
+    },
+    {
+        "name": {
+			"en": "Decision Making",
+			"fr": "Prise de décision",
+			"id": "226"
+		}
+    },
+    {
+        "name": {
+			"en": "Leadership",
+			"fr": "Leadership",
+			"id": "227"
+		}
+    },
+    {
+        "name": {
+			"en": "Negotiation",
+			"fr": "Négotiation",
+			"id": "228"
+		}
+    },
+    {
+        "name": {
+			"en": "Project Management",
+			"fr": "Gestion de projet",
+			"id": "229"
+		}
+    },
+    {
+        "name": {
+			"en": "Business Intelligence",
+			"fr": "Business Intelligence",
+			"id": "230"
+		}
+    },
+    {
+        "name": {
+			"en": "Salesforce",
+			"fr": "Salesforce",
+			"id": "231"
+		}
+    },
+    {
+        "name": {
+			"en": "Asset Management",
+			"fr": "Gestion des actifs",
+			"id": "232"
+		}
+    },
+    {
+        "name": {
+			"en": "Business Awareness",
+			"fr": "Sensibilisation des entreprises",
+			"id": "233"
+		}
+    },
+    {
+        "name": {
+			"en": "Finance",
+			"fr": "Finance",
+			"id": "234"
+		}
+    },
+    {
+        "name": {
+			"en": "Corporate Reports",
+			"fr": "Rapports d'entreprise",
+			"id": "235"
+		}
+    },
+    {
+        "name": {
+			"en": "Credit Management",
+			"fr": "Gestion des créances",
+			"id": "236"
+		}
+    },
+    {
+        "name": {
+			"en": "Accounts Analysis",
+			"fr": "Analyse des comptes",
+			"id": "237"
+		}
+    },
+    {
+        "name": {
+			"en": "Account Reconciliation",
+			"fr": "Rapprochement des compte",
+			"id": "238"
+		}
+    },
+    {
+        "name": {
+			"en": "Accounting Information Systems",
+			"fr": "Systèmes d'information comptable",
+			"id": "239"
+		}
+    },
+    {
+        "name": {
+			"en": "Accounting Software",
+			"fr": "Logiciel de comptabilité",
+			"id": "240"
+		}
+    },
+    {
+        "name": {
+			"en": "Accounts Receivable",
+			"fr": "Comptes débiteurs",
+			"id": "241"
+		}
+    },
+    {
+        "name": {
+			"en": "Accounts Payable",
+			"fr": "Compte à payer",
+			"id": "242"
+		}
+    },
+    {
+        "name": {
+			"en": "Accounting Processes",
+			"fr": "Processus comptables",
+			"id": "243"
+		}
+    },
+    {
+        "name": {
+			"en": "Accounting Principles",
+			"fr": "Principes comptables",
+			"id": "244"
+		}
+    },
+    {
+        "name": {
+			"en": "Annual Reports",
+			"fr": "Rapport annuel",
+			"id": "245"
+		}
+    },
+    {
+        "name": {
+			"en": "Balance Sheets",
+			"fr": "Bilans comptables",
+			"id": "246"
+		}
+    },
+    {
+        "name": {
+			"en": "Bank Deposits",
+			"fr": "Dépôts de banque",
+			"id": "247"
+		}
+    },
+    {
+        "name": {
+			"en": "Bank Reconciliations",
+			"fr": "Rapprochements bancaires",
+			"id": "248"
+		}
+    },
+    {
+        "name": {
+			"en": "Budgets",
+			"fr": "Budgets",
+			"id": "249"
+		}
+    },
+    {
+        "name": {
+			"en": "Debt Management",
+			"fr": "Gestion des dettes",
+			"id": "250"
+		}
+    },
+    {
+        "name": {
+			"en": "Financial Analysis",
+			"fr": "Analyse financière",
+			"id": "251"
+		}
+    },
+    {
+        "name": {
+			"en": "Financial Reporting",
+			"fr": "Rapport financier",
+			"id": "252"
+		}
+    },
+    {
+        "name": {
+			"en": "Financial Statement Analysis",
+			"fr": "Analyse des états financiers",
+			"id": "253"
+		}
+    },
+    {
+        "name": {
+			"en": "Risk assessment",
+			"fr": "L'évaluation des risques",
+			"id": "254"
+		}
+    },
+    {
+        "name": {
+			"en": "Statistical analysis",
+			"fr": "Analyses statistiques",
+			"id": "255"
+		}
+    },
+    {
+        "name": {
+			"en": "Financial planning",
+			"fr": "Planification budgétaire",
+			"id": "256"
+		}
+    },
+    {
+        "name": {
+			"en": "SWOT analysis",
+			"fr": "Analyse SWOT",
+			"id": "257"
+		}
+    },
+    {
+        "name": {
+			"en": "Managing budgets",
+			"fr": "Gestion des budgets",
+			"id": "258"
+		}
+    },
+    {
+        "name": {
+			"en": "Event planning",
+			"fr": "Planification des événements",
+			"id": "259"
+		}
+    },
+    {
+        "name": {
+			"en": "Gap analysis",
+			"fr": "Analyse des écarts",
+			"id": "260"
+		}
+    }
+    
+    
+    Marge de 50 donc commener le prochain à 120
+    
+    
+]
