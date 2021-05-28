@@ -1,0 +1,25 @@
+{
+	"name": "pessek/pessek_profile",
+    	"description": "This plugin allows elgg user to build their professional profile like linkdedin",
+    	"type": "elgg-plugin",
+    	"license": "proprietary",
+	"keywords": [
+		"elgg",
+		"plugin",
+		"notifications",
+		"email"
+	],
+	"authors": [
+		{
+			"name": "Hermand PESSEK",
+			"email": "rhemandaddy@gmail.com"
+		}
+	],
+	"extra": {
+		"installer-name": "pessek_profile"
+	},
+    	"require": {
+		"php": ">=7.1",
+		"composer/installers": "~1.0"
+	}
+}
