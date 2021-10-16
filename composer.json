@@ -1,0 +1,35 @@
+{
+	"name": "pessek/pessek_profile",
+    	"description": "This plugin allows elgg user to build their professional profile like linkdedin",
+    	"type": "elgg-plugin",
+	"version": "4.0",
+    	"license": "proprietary",
+	"keywords": [
+		"elgg",
+		"plugin",
+		"notifications",
+		"email"
+	],
+	"authors": [
+		{
+			"name": "Hermand PESSEK",
+			"email": "rhemandaddy@gmail.com"
+		}
+	],
+	"extra": {
+		"installer-name": "pessek_profile"
+	},
+    	"require": {
+		"php": ">=7.4",
+		"composer/installers": "^1.0.8"
+	},
+	"repositories": [
+		{
+            		"type": "composer",
+            		"url": "https://asset-packagist.org"
+		}
+	],
+        "conflict": {
+                "elgg/elgg": "<4.0"
+        }
+}
